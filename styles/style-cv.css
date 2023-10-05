@@ -1,0 +1,10 @@
+.fixed-table {
+    table-layout: fixed;
+
+}
+
+.cv-text {
+    font-size: 2.626rem;
+    font-family: 'Sacramento', cursive;
+    color: #fff;
+}
